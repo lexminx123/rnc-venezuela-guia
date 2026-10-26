@@ -1,0 +1,16 @@
+Rubro,Concepto,Monto_Bs,Referencia_ISLR
+Activo Circulante,Efectivo en Caja y Bancos,"2,850,410.50",Disponibilidad
+Activo Circulante,Cuentas por Cobrar Comerciales,"8,420,150.00",Clientes
+Activo Circulante,Retenciones de ISLR por Cobrar,"669,844.31",ISLR Casilla 28 (Anticipos)
+Activo Circulante,Inventario Final de Mercancias,"96,058,061.09",ISLR Casilla 28 (Costo de Ventas)
+Activo No Circulante,Propiedad Planta y Equipos,"4,333,333.30",Activos Fijos
+Activo No Circulante,Depreciacion Acumulada,"-866,666.66",ISLR Casilla 59 (Gastos)
+TOTAL ACTIVO,Sumatoria Activos,"111,465,132.54",Verificacion
+Pasivo Circulante,Cuentas por Pagar Proveedores,"86,851,306.11",Obligaciones comerciales
+Pasivo Circulante,Impuestos por Pagar (ISLR Liquidado),"216,980.85",ISLR Casilla 33/54
+Pasivo Circulante,Otras Cuentas por Pagar,"5,400,000.00",Pasivos operativos
+TOTAL PASIVO,Sumatoria Pasivos,"92,468,286.96",Verificacion
+Patrimonio,Capital Social Actualizado,"15,000,000.00",Ultima Acta de Asamblea Registrada
+Patrimonio,Utilidad Neta del Ejercicio,"3,996,845.58",ISLR Casilla 84/86
+TOTAL PATRIMONIO,Sumatoria Patrimonio,"18,996,845.58",Verificacion
+TOTAL PASIVO + PATRIMONIO,Balance Ecuacion,"111,465,132.54",Cuadre Exacto al Centavo

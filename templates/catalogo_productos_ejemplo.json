@@ -1,0 +1,51 @@
+{
+  "segmentos": [
+    {
+      "segmento_codigo": "15000000",
+      "descripcion": "Materiales y Productos de Combustibles y Lubricantes",
+      "productos": [
+        {
+          "codigo_unspsc": "15121501",
+          "descripcion": "Aceite de motor",
+          "marca_estrategica": "Aceite de motor"
+        },
+        {
+          "codigo_unspsc": "15121504",
+          "descripcion": "Aceite hidraulico",
+          "marca_estrategica": "Aceite hidraulico"
+        },
+        {
+          "codigo_unspsc": "15121520",
+          "descripcion": "Grasa lubricante",
+          "marca_estrategica": "Grasa lubricante"
+        },
+        {
+          "codigo_unspsc": "15121502",
+          "descripcion": "Aceite para transmisiones",
+          "marca_estrategica": "Aceite para transmisiones"
+        },
+        {
+          "codigo_unspsc": "15121508",
+          "descripcion": "Lubricantes de uso general",
+          "marca_estrategica": "Lubricantes de uso general"
+        },
+        {
+          "codigo_unspsc": "15121512",
+          "descripcion": "Liquido de frenos",
+          "marca_estrategica": "Liga para freno"
+        }
+      ]
+    },
+    {
+      "segmento_codigo": "78000000",
+      "descripcion": "Servicios de Transporte, Almacenamiento y Logística",
+      "servicios": [
+        {
+          "codigo_unspsc": "78102101",
+          "descripcion": "Transporte de productos petroliferos",
+          "modalidad": "Servicio de flete y transporte especializado"
+        }
+      ]
+    }
+  ]
+}
